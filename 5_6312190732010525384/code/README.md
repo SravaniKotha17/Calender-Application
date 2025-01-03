@@ -5,7 +5,10 @@ Communication Tracker is a React-based web application designed to help business
 ## Github Link
 git clone https://github.com/SravaniKotha17/Calender-Application.git
 
+
 ## Deployment Link
+https://clever-gecko-9eabbb.netlify.app/
+
 
 
 ## Prerequisites
@@ -108,10 +111,10 @@ Then Upload build file to Netlify
 
 
 ## License
-This project has been build by Shivam Anand from IIIT Sonepat.
+This project has been build by Kotha Sravani
 
 ## Contact
-SHIVAM ANAND - shivam.anand.216@gmail.com
+KOTHA SRAVANI - kothasravani17@gmail.com
 
 Deployed Project Link: https://clever-gecko-9eabbb.netlify.app/
 
